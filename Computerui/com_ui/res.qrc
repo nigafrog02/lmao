@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>image/4zu3_Dell_Inspiron_15_3501.jpg</file>
+        <file>image/G15.jpg</file>
+        <file>image/images.jpg</file>
+        <file>image/M15.jpg</file>
+        <file>image/welcome.jpg</file>
+        <file>image/birthday-cap-with-confetti-serpentine-explosion_1017-17924.jpg</file>
+    </qresource>
+</RCC>
